@@ -398,3 +398,6 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [14Dec2024 06:04:30.029] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [14Dec2024 06:04:30.033] [Server thread/INFO] [tac/]: PENDING
 [14Dec2024 06:05:24.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: andrzt0 was slain by Zombie
+[14Dec2024 06:07:43.607] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 06:07:43.610] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 06:09:33.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made andrzt0 a server operator

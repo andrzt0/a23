@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-14 06:25:43 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_cabinet": {
     "criteria": {
       "has_log": "2024-12-14 06:03:56 +0000"

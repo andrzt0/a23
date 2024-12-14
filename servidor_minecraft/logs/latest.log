@@ -416,3 +416,12 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [14Dec2024 06:24:36.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: andrzt0 was blown up by Creeper
 [14Dec2024 06:24:37.804] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [14Dec2024 06:24:37.807] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 06:25:57.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: andrzt0 was slain by Zombie
+[14Dec2024 06:27:20.329] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@44354f4b
+[14Dec2024 06:27:20.334] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nicolaaiz[/127.76.215.229:38437] logged in with entity id 2875 at (-29.5, 76.0, 9.5)
+[14Dec2024 06:27:20.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nicolaaiz joined the game
+[14Dec2024 06:27:20.340] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 06:30:31.339] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 06:30:31.350] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 06:30:54.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nicolaaiz has made the advancement [Monster Hunter]
+[14Dec2024 06:31:21.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: andrzt0 was slain by Nicolaaiz

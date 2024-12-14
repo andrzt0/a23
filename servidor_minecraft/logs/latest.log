@@ -450,3 +450,14 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [14Dec2024 06:43:01.982] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [14Dec2024 06:43:01.997] [Server thread/INFO] [tac/]: PENDING
 [14Dec2024 06:43:08.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: andrzt0 has made the advancement [Alex's Mobs]
+[14Dec2024 06:45:51.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: andrzt0 was slain by Zombie
+[14Dec2024 06:45:52.811] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 06:45:52.813] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 06:46:22.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: andrzt0 was slain by Zombie
+[14Dec2024 06:46:33.696] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 06:46:33.698] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 06:48:25.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: andrzt0 was slain by Spider
+[14Dec2024 06:48:26.976] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 06:48:26.984] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 06:49:02.281] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: andrzt0 lost connection: Disconnected
+[14Dec2024 06:49:02.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: andrzt0 left the game

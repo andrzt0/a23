@@ -401,3 +401,18 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [14Dec2024 06:07:43.607] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [14Dec2024 06:07:43.610] [Server thread/INFO] [tac/]: PENDING
 [14Dec2024 06:09:33.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made andrzt0 a server operator
+[14Dec2024 06:18:42.289] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: andrzt0 lost connection: Disconnected
+[14Dec2024 06:18:42.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: andrzt0 left the game
+[14Dec2024 06:19:00.497] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@8a7246b
+[14Dec2024 06:19:00.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: andrzt0[/127.113.42.51:51089] logged in with entity id 2077 at (1.635719676764759, 64.0, -30.69999998807907)
+[14Dec2024 06:19:00.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: andrzt0 joined the game
+[14Dec2024 06:19:00.549] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 06:19:15.181] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: andrzt0 lost connection: Disconnected
+[14Dec2024 06:19:15.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: andrzt0 left the game
+[14Dec2024 06:22:18.336] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@49934203
+[14Dec2024 06:22:18.348] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: andrzt0[/127.113.42.51:45403] logged in with entity id 2184 at (9.230673377941732, 66.0, -30.118509901478696)
+[14Dec2024 06:22:18.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: andrzt0 joined the game
+[14Dec2024 06:22:18.370] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 06:24:36.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: andrzt0 was blown up by Creeper
+[14Dec2024 06:24:37.804] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 06:24:37.807] [Server thread/INFO] [tac/]: PENDING

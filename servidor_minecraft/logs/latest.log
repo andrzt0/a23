@@ -425,3 +425,28 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [14Dec2024 06:30:31.350] [Server thread/INFO] [tac/]: PENDING
 [14Dec2024 06:30:54.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nicolaaiz has made the advancement [Monster Hunter]
 [14Dec2024 06:31:21.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: andrzt0 was slain by Nicolaaiz
+[14Dec2024 06:37:43.539] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 06:37:43.543] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 06:37:53.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nicolaaiz fell out of the world
+[14Dec2024 06:37:53.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [andrzt0: Killed Nicolaaiz]
+[14Dec2024 06:37:57.584] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 06:37:57.585] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 06:38:00.531] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nicolaaiz lost connection: Disconnected
+[14Dec2024 06:38:00.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nicolaaiz left the game
+[14Dec2024 06:39:37.135] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@405c6ff5
+[14Dec2024 06:39:37.144] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Legon_S[/127.157.96.66:57311] logged in with entity id 5285 at (-29.5, 66.0, 3.5)
+[14Dec2024 06:39:37.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Legon_S joined the game
+[14Dec2024 06:39:37.150] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 06:39:45.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Legon_S fell out of the world
+[14Dec2024 06:39:45.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [andrzt0: Killed Legon_S]
+[14Dec2024 06:39:47.088] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 06:39:47.090] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 06:39:47.931] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Legon_S lost connection: Disconnected
+[14Dec2024 06:39:47.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Legon_S left the game
+[14Dec2024 06:41:34.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: andrzt0 was blown up by Creeper
+[14Dec2024 06:41:35.916] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 06:41:35.918] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 06:43:00.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: andrzt0 tried to swim in lava
+[14Dec2024 06:43:01.982] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 06:43:01.997] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 06:43:08.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: andrzt0 has made the advancement [Alex's Mobs]

@@ -461,3 +461,14 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [14Dec2024 06:48:26.984] [Server thread/INFO] [tac/]: PENDING
 [14Dec2024 06:49:02.281] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: andrzt0 lost connection: Disconnected
 [14Dec2024 06:49:02.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: andrzt0 left the game
+[14Dec2024 07:04:20.281] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7fa4f281
+[14Dec2024 07:04:20.287] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Legon_S[/127.157.96.66:37179] logged in with entity id 7406 at (-22.5, 64.0, -0.5)
+[14Dec2024 07:04:20.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Legon_S joined the game
+[14Dec2024 07:04:20.305] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 07:04:34.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-48, y=69, z=-2}
+[14Dec2024 07:05:13.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Legon_S was slain by Zombie
+[14Dec2024 07:05:18.907] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 07:05:18.909] [Server thread/INFO] [tac/]: PENDING
+[14Dec2024 07:05:20.985] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-40, y=70, z=16}
+[14Dec2024 07:05:43.730] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Legon_S lost connection: Disconnected
+[14Dec2024 07:05:43.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Legon_S left the game
